@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.he-left {
+  background-color: blue;
+  display: inline-block;
+}
+
+.he-righ {
+  display: inline-block;
+  text-align: right;
+}
+li {
+  padding: 10px;
+  font-size: 20px;
+}
+
+.he-left li {
+  float: left;
+}
+
+.he-righ li {
+  float: left;
+  background-color: burlywood;
+}
+
+img {
+  height: 30px;
+  width: 30px;
+}

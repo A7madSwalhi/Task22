@@ -1,0 +1,43 @@
+.con {
+  background-color: rgb(70 70 255);
+  width: 85%;
+  height: 85vh;
+  position: relative;
+}
+
+.content {
+  width: 70%;
+  height: 86%;
+  background-color: white;
+  margin: 38px 0;
+  position: absolute;
+  right: 5%;
+  box-shadow: 3px 3px 7px black;
+}
+
+.con > div {
+  float: left;
+}
+
+.ht {
+  color: white;
+  font-size: xx-large;
+  margin: 4% 0 0 12%;
+}
+
+.lang {
+  height: 75%;
+  width: 30%;
+  margin: 10% 1%;
+  display: inline-block;
+}
+
+img {
+  height: 100px;
+  width: 100px;
+  margin-left: 50px;
+}
+
+h2 {
+  text-align: center;
+}

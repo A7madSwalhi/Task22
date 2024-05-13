@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  height: 500px;
+}
+
+.main {
+  width: 100%;
+  height: 500px;
+  background-color: blue;
+}
+
+.item {
+  padding: 0;
+  display: inline-block;
+  width: calc(100% / 3);
+  height: 60%;
+  background-color: rgb(205, 205, 202);
+}
